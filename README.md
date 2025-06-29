@@ -9,12 +9,12 @@
 ## 📚 Table of Contents
 
 | Sr. No. | Section                                      | Description                                               |
-|--------:|----------------------------------------------|-----------------------------------------------------------|
-| 1       | [🧾 What’s Included](#-whats-included)         | List of C++ topics and basic codes included         |
-| 2       | [💡 Purpose](#-purpose)                        | Why this repository was created                           |
-| 3       | [👥 Who Can Benefit](#-who-can-benefit)        | Target audience and who will find it useful               |
-| 4       | [🛠️ Tools Used](#️-tools-used)                 | Tools, languages, and platforms used                      |
-| 5       | [👨‍💻 Author](#-author)                         | Repository creator and contact details                    |
+|---------|----------------------------------------------|-----------------------------------------------------------|
+| 1 )     | [🧾 What’s Included](#-whats-included)         | List of C++ topics and basic codes included         |
+| 2 )     | [💡 Purpose](#-purpose)                        | Why this repository was created                           |
+| 3 )     | [👥 Who Can Benefit](#-who-can-benefit)        | Target audience and who will find it useful               |
+| 4 )     | [🛠️ Tools Used](#️-tools-used)                 | Tools, languages, and platforms used                      |
+| 5 )     | [👨‍💻 Author](#-author)                         | Repository creator and contact details                    |
 
 ---
 
