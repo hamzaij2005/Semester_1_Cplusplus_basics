@@ -3,9 +3,10 @@
 
 This repository contains a collection of C++ programs written during the first semester of my Software Engineering degree. These programs helped me build a strong understanding of programming logic and syntax using the C++ language. All code is written clearly and is helpful for beginners looking to learn or practice C++.
 
-
+<br>
 #🧾 What’s Included:
-
+<br>
+<br>
 
 🔤 Input & Output
 Basic programs using cin and cout, with formatting output using endl.
@@ -31,13 +32,13 @@ Working with char data type, vowel/consonant checks, case conversion, and basic 
 ➕ Operators & Expressions
 Usage of arithmetic, relational, logical, and assignment operators. Includes type conversion and compound expressions.
 
-
+<br>
 #💡 Purpose
 
 
 To document my learning during the first semester and provide C++ examples for students and beginners to understand programming basics.
 
-
+<br>
 #👥 Who Can Benefit:
 
 First-semester Software Engineering or CS students
@@ -45,4 +46,5 @@ First-semester Software Engineering or CS students
 Self-learners starting with C++
 
 Anyone preparing for practical programming exams
-
+<br><br>
+👨‍💻 Author: Hamza Ijaz
