@@ -4,7 +4,7 @@
 This repository contains a collection of C++ programs written during the first semester of my Software Engineering degree. These programs helped me build a strong understanding of programming logic and syntax using the C++ language. All code is written clearly and is helpful for beginners looking to learn or practice C++.
 
 <br>
-#🧾 What’s Included:
+#🧾 What’s Included: 
 <br>
 <br>
 
