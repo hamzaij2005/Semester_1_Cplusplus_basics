@@ -3,9 +3,12 @@
 
 This repository contains a collection of C++ programs written during the first semester of my Software Engineering degree. These programs helped me build a strong understanding of programming logic and syntax using the C++ language. All code is written clearly and is helpful for beginners looking to learn or practice C++.
 
-#🧾 What’s Included
+
+#🧾 What’s Included:
+
+
 🔤 Input & Output
-Basic programs using cin and cout, with formatting output using endl, \n, and setw.
+Basic programs using cin and cout, with formatting output using endl.
 
 🔁 Loops
 Examples using for, while, and do-while loops. Includes pattern printing, reverse counting, and logic-based loop tasks.
@@ -28,10 +31,15 @@ Working with char data type, vowel/consonant checks, case conversion, and basic 
 ➕ Operators & Expressions
 Usage of arithmetic, relational, logical, and assignment operators. Includes type conversion and compound expressions.
 
+
 #💡 Purpose
+
+
 To document my learning during the first semester and provide C++ examples for students and beginners to understand programming basics.
 
-#👥 Who Can Benefit
+
+#👥 Who Can Benefit:
+
 First-semester Software Engineering or CS students
 
 Self-learners starting with C++
