@@ -14,7 +14,8 @@
 | 2 )     | [💡 Purpose](#-purpose)                        | Why this repository was created                           |
 | 3 )     | [👥 Who Can Benefit](#-who-can-benefit)        | Target audience and who will find it useful               |
 | 4 )     | [🛠️ Tools Used](#️-tools-used)                 | Tools, languages, and platforms used                      |
-| 5 )     | [👨‍💻 Author](#-author)                         | Repository creator and contact details                    |
+| 5️ )     | [📦 Linked Projects](#-from-practice-to-real-projects)     | Projects made using this knowledge               |
+| 6 )     | [👨‍💻 Author](#-author)                         | Repository creator and contact details                    |
 
 ---
 
@@ -77,6 +78,22 @@ To document my learning during the first semester and provide C++ examples for s
 - **Compiler :**Visual Studio Code**
 - Download link (For VS code ):
 - [ https://code.visualstudio.com/]
+
+---
+
+## 📦 From Practice to Real Projects
+
+The concepts mastered in this repository didn’t just stay as exercises — they were transformed into **real, hands-on C++ projects** in my coursework.
+
+🔥 Featuring:
+- ✈️ Integrated Airline Operating System  
+- ☕ Cafe Management System  
+- 🎮 Fun & logic-based mini-games  
+- 🔢 Math, array, and function-based utilities
+
+🚀 Dive into the full collection here:  
+🔗 **[Semester 1 C++ Projects Repository →](https://github.com/hamzaij2005/Semester_1_projects)**  
+📂 Contains course projects and mini-projects built entirely using C++ basics from this repo.
 
 ---
 
